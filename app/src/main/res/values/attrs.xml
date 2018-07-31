@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <declare-styleable name="AppShortcut">
+        <attr name="title" format="string" />
+        <attr name="icon" format="reference" />
+        <attr name="intentName" format="string" />
+    </declare-styleable>
+    <declare-styleable name="HomepageCellAppShortcut">
+        <attr name="title" format="string" />
+        <attr name="icon" format="reference" />
+        <attr name="intentName" format="string" />
+    </declare-styleable>-->
+</resources>
